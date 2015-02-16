@@ -1,4 +1,4 @@
-# Bunch of Photoshop styles
+# My Personal Photoshop Scripts
 
 [True 16:9 Resolutions Object Creator](16_9_ratio_objects.jsx)
 
